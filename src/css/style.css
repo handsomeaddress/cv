@@ -177,7 +177,9 @@ main>*:last-child {
   margin-top: 10px;
 }
 
-
+.skill__item i {
+  display: block;
+}
 
 @media screen and (max-width: 1050px) {
   aside{
